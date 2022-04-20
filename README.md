@@ -15,7 +15,7 @@ The purpose of this project is to provide Louise a visual feedback using pivot t
 
 In order to complete the analysis,the kickstarter data set needed to be organized by breaking down the columns into new columns.At frist,we break down the category and subcategory column into two new columns named parent category and subcategory. By creating new columns for theater and plays,more detailed analysis can be done.The majority of the analysis conducted in this exercise by pivot tables and creating pivot charts to plot the results.
 
-![Theater Outcomes by Launch Date]()
+![Theater Outcomes by Launch Date.png]()
 
  The pivot table is filtered by the Parent Category “theater".Since we found there is a correlation between successful campaigns and months of the year they were launched, we created a pivot table to help Louise pick the most successful date to start her fundraiser.
 
