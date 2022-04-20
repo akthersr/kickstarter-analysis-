@@ -39,7 +39,7 @@ For the analysis of outcomes based on goals,we create a sheet "outcomes based on
 To create this table, I use countifs()formula to find the columns “Number Success”, “Number Failed” and“Number Canceled”.I used a variation of the following formula
 =COUNTIFS(Kickstarter_Challenge.xlsx!$D:$D,"<1000",Kickstarter_Challenge.xlsx!$F:$F,"successful",Kickstarter_Challenge.xlsx!$R:$R,"plays")
 
-![Outcomes Based on Goals]()
+![Outcomes Based on Goals](resources/Outcomes_vs_Goals.png)
 
 The figure above shows us that campaigns with lower range goals had a higher chance of succeeding than of failing.According to the chart,plays who had a goal less than $1000 and below $5000 had a good success rate in the 70 percentile.The most unsuccessful campaign are the ones with goals over $45000.
 
