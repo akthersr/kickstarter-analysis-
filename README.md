@@ -1,7 +1,6 @@
  
 # An Analysis of Kickstarter Campaigns
 
-performing analysis on Kickstarter data  
 ## Overview
 
 The main objective is to use Kickstarter Campaign data to uncover trends and to focus how different factors influence campaign outcomes.Here,Louise is looking to create a campaign fund for her upcoming play "Fever".These findings from the analyzed data help her to understand what factors should she focus to plan a successful campaign.
