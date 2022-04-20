@@ -18,7 +18,7 @@ In order to complete the analysis,the kickstarter data set needed to be organize
 
  The pivot table is filtered by the Parent Category “theater".Since we found there is a correlation between successful campaigns and months of the year they were launched, we created a pivot table to help Louise pick the most successful date to start her fundraiser.
 
-![Parent Category Outcomes]()
+![Parent Category Outcomes](resources/Parent Category Outcomes.png)
 
 This figure shows us that of all categories in the US,"theater" category had the most success.
 
