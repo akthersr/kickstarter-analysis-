@@ -34,7 +34,7 @@ This figure shows us that campaign launched in the spring were more successful t
 
 For the analysis of outcomes based on goals,we create a sheet "outcomes based on goals".To analyze the outcome data and its relationship to fundraising goal we created a table in the outcomes based on goals sheet.
 
-![Outcomes Based on Goals].()
+![Outcomes Based on Goals](https://github.com/akthersr/kickstarter-analysis-/blob/main/Resources/outcomes%20based%20on%20goal.png)
 
 To create this table, I use countifs()formula to find the columns “Number Success”, “Number Failed” and“Number Canceled”.I used a variation of the following formula
 =COUNTIFS(Kickstarter_Challenge.xlsx!$D:$D,"<1000",Kickstarter_Challenge.xlsx!$F:$F,"successful",Kickstarter_Challenge.xlsx!$R:$R,"plays")
