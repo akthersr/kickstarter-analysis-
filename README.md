@@ -1,5 +1,4 @@
-# An Analysis of Kickstarter Campaigns
-performing analysis on Kickstarter data  
+ 
 # An Analysis of Kickstarter Campaigns
 
 performing analysis on Kickstarter data  
