@@ -28,6 +28,7 @@ Based on the data we had on theatre fundraisers we have created a pivot table to
 catgorized by the outcomes charted by the months when they were launched.
 
 ![Theater Outcomes Based on Launch Date](https://github.com/akthersr/kickstarter-analysis-/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+
 This figure shows us that campaign launched in the spring were more successful than those launched in the winter.This means that the best time to start the campaign would be May or June. On the other hand campaign launched between December to January are the least successful.
 
 ## Analysis of Outcomes Based on Goals
