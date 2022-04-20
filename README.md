@@ -36,7 +36,7 @@ For the analysis of outcomes based on goals,we create a sheet "outcomes based on
 
 ![Outcomes Based on Goals](https://github.com/akthersr/kickstarter-analysis-/blob/main/Resources/outcomes%20based%20on%20goal.png)
 
-To create this table, I use countifs()formula to find the columns “Number Success”, “Number Failed” and“Number Canceled”.I used a variation of the following formula
+To create this table,I use countifs()formula to find the columns “Number Success”, “Number Failed” and“Number Canceled”.I used a variation of the following formula
 =COUNTIFS(Kickstarter_Challenge.xlsx!$D:$D,"<1000",Kickstarter_Challenge.xlsx!$F:$F,"successful",Kickstarter_Challenge.xlsx!$R:$R,"plays")
 
 ![Outcomes Based on Goals](https://github.com/akthersr/kickstarter-analysis-/blob/main/Resources/Outcomes_vs_Goals.png)
@@ -51,11 +51,11 @@ The figure above shows us that campaigns with lower range goals had a higher cha
 
  We can infer the following conclusions from analysis of outcomes based on launch date:
 
- 1.Based on the data collected for theater outcomes by lauch date, we observe that kickstarter campaigns launched in May or June tend to be the most successful for a play.So,we can interpret that summer months are better times to run a campaign.
+1.Based on the data collected for theater outcomes by lauch date, we observe that kickstarter campaigns launched in May or June tend to be the most successful for a play.So,we can interpret that summer months are better times to run a campaign.
 
-2. September to March are the least successful months to launch a campaign.The analysis also shows that the least amount of successful theater campaign launched in December.
+2.September to March are the least successful months to launch a campaign.The analysis also shows that the least amount of successful theater campaign launched in December.
 
- We can deduce the following conclusions from analysis of Outcomes based on Goals:
+We can deduce the following conclusions from analysis of Outcomes based on Goals:
 
  In analyzing the data, it can be concluded that the rate of success is higher for campaigns with a funding goal that is less than $5000.Theater Kickstarter campaigns with a lower fundraising goal which is less than $1000 up to $4999 has the most  success rate ranging from 76%-73%.
 
