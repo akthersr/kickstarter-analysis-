@@ -34,6 +34,8 @@ This figure shows us that campaign launched in the spring were more successful t
 
 For the analysis of outcomes based on goals,we create a sheet "outcomes based on goals".To analyze the outcome data and its relationship to fundraising goal we created a table in the outcomes based on goals sheet.
 
+![Outcomes Based on Goals]
+
 To create this table, I use countifs()formula to find the columns “Number Success”, “Number Failed” and“Number Canceled”.I used a variation of the following formula
 =COUNTIFS(Kickstarter_Challenge.xlsx!$D:$D,"<1000",Kickstarter_Challenge.xlsx!$F:$F,"successful",Kickstarter_Challenge.xlsx!$R:$R,"plays")
 
@@ -51,7 +53,7 @@ The figure above shows us that campaigns with lower range goals had a higher cha
 
  1.Based on the data collected for theater outcomes by lauch date, we observe that kickstarter campaigns launched in May or June tend to be the most successful for a play.So,we can interpret that summer months are better times to run a campaign.
 
- 2. September to March are the least successful months to launch a campaign.The analysis also shows that the least amount of successful theater campaign launched in December.
+2. September to March are the least successful months to launch a campaign.The analysis also shows that the least amount of successful theater campaign launched in December.
 
  We can deduce the following conclusions from analysis of Outcomes based on Goals:
 
